@@ -4,6 +4,7 @@ import cors from "cors";
 import 'dotenv/config'
 import connectDB from "./db/index.js";
 import connectCloudinary from "./config/cloudinary.js";
+import adminRouter from "./routes/adminroute.js";
 
 const app = express();
 const port = process.env.port || 8000
@@ -25,6 +26,8 @@ app.use(cookieParser());
 //routes
 
 //api endpoints
+app.use('/api/admin',adminRouter)
+
 app.get('/',(req,res)=>{
   res.send("Api WOrking gr8")
 })
