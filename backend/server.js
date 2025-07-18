@@ -7,14 +7,13 @@ import connectCloudinary from "./config/cloudinary.js";
 import adminRouter from "./routes/adminroute.js";
 
 const app = express();
-const port = process.env.port || 8000
+const port = process.env.port || 3000
 connectDB()
 connectCloudinary()
 
 app.use(
   cors({
-    origin: process.env.CORS_ORIGIN,
-    credentials: true,
+    origin: "*"
   })
 );
 
