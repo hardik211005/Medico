@@ -45,7 +45,7 @@ const About = () => {
 
         <div className="text-xl my-4 ">
           <p>
-            Why <span className="text-gray-700 font-semibold">Choose Us</span>
+            Why <span className="text-gray-700 font-semibold">Choose Us ?</span>
           </p>
 
           <div className="flex flex-col md:flex-row mb-20 mt-4">

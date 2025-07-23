@@ -48,7 +48,7 @@ const DoctorProfile = () => {
         <div className="flex flex-col gap-4 m-5">
           <div>
             <img
-              className="bg-green-200 hover:bg-green-900 w-full sm:max-w-64 rounded-lg"
+              className="bg-green-100 hover:bg-green-900 w-full sm:max-w-64 rounded-lg"
               src={profileData.image}
               alt=""
             />

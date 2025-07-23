@@ -23,7 +23,7 @@ const DoctorsList = () => {
               key={index}
             >
               <img
-                className="bg-indigo-50 group-hover:bg-green-900 transition-all duration-300"
+                className="bg-green-100 group-hover:bg-green-900 transition-all duration-300"
                 src={item.image}
                 alt=""
               />

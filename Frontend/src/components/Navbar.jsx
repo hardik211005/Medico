@@ -54,11 +54,11 @@ const Navbar = () => {
                   onClick={() => navigate("/my-appointments")}
                   className=" hover:text-black  cursor-pointer"
                 >
-                  My Appointment
+                  My Appointments
                 </p>
                 <p
                   onClick={logout}
-                  className=" hover:text-black  cursor-pointer"
+                  className=" hover:text-red-600  cursor-pointer"
                 >
                   Logout
                 </p>

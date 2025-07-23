@@ -144,7 +144,7 @@ const MyAppointments = () => {
           >
             <div onClick={() => handleNavigation(item?.docData?._id)}>
               <img
-                className="w-32 bg-indigo-50"
+                className="w-32 bg-green-100"
                 src={item?.docData?.image}
                 alt=""
               />
