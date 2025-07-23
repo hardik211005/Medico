@@ -30,19 +30,23 @@ Welcome to **Medico**, a modern doctor appointment booking web app designed to s
 ## 🖥️ Screenshots
 
 ### Homepage & Speciality Selection  
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/5f8036d0-0ffa-4c8d-895d-ec9f8efe38d1" />
+<img width="1901" height="865" alt="image" src="https://github.com/user-attachments/assets/8180912a-2a9d-4e38-a51f-d00f9d8f44a2" />
+
 
 
 ### Top Doctors & Specialities  
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/0034da69-9c49-4fd2-9cdc-aabd2721a8a8" />
+<img width="1618" height="814" alt="image" src="https://github.com/user-attachments/assets/e0ed7fc3-361d-4593-a4fa-c15a6dac6495" />
+
 
 
 ### Admin Panel  
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/1f11ddfb-6372-41d2-84bc-3645f81c9cf7" />
+<img width="1349" height="653" alt="image" src="https://github.com/user-attachments/assets/4c51340f-e7a0-41e1-b939-6fba02bc0d5d" />
+
 
 
 ### Doctor Profile  
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/d9f1274b-9f5e-4adf-bd93-d7202bda7459" />
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/6cbd9e88-43aa-4e89-98fa-37c83dea3edc" />
+
 
 
 ## 🛠️ Tech Stack
